@@ -1,0 +1,8 @@
+platform :android do
+  lane :add_google_sheet_row do
+    add_google_sheet_row(service_account_path: ENV['GOOGLE_APPLICATION_CREDENTIALS'],
+                                     sheet_id: "",
+                                        range: "Sheet1!A1",
+                                         body: ["Test2", "Test2"])
+  end
+end
