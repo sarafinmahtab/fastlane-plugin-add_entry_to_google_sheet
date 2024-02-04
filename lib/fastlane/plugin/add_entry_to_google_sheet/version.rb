@@ -1,5 +1,5 @@
 module Fastlane
-  module AddGoogleSheetRow
+  module AddEntryToGoogleSheet
     VERSION = "0.1.0"
   end
 end

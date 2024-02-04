@@ -1,16 +1,16 @@
-# add_google_sheet_row plugin
+# add_entry_to_google_sheet plugin
 
-[![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-add_google_sheet_row)
+[![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-add_entry_to_google_sheet)
 
 ## Getting Started
 
-This project is a [_fastlane_](https://github.com/fastlane/fastlane) plugin. To get started with `fastlane-plugin-add_google_sheet_row`, add it to your project by running:
+This project is a [_fastlane_](https://github.com/fastlane/fastlane) plugin. To get started with `fastlane-plugin-add_entry_to_google_sheet`, add it to your project by running:
 
 ```bash
-fastlane add_plugin add_google_sheet_row
+fastlane add_plugin add_entry_to_google_sheet
 ```
 
-## About add_google_sheet_row
+## About add_entry_to_google_sheet
 
 A lane created to add a row in Google sheet.
 
